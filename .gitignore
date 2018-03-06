@@ -12,3 +12,5 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
++Content/RTS_Main/Maps/RTS_Conquer_Map.umap
+Content/RTS_Main/Maps/RTS_Conquer_Map_BuiltData.uasset
