@@ -12,5 +12,9 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+<<<<<<< HEAD
 +Content/RTS_Main/Maps/RTS_Conquer_Map.umap
+=======
+Content/RTS_Main/Maps/RTS_Conquer_Map.umap
+>>>>>>> Fredy
 Content/RTS_Main/Maps/RTS_Conquer_Map_BuiltData.uasset
