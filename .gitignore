@@ -17,7 +17,8 @@ Saved
 =======
 Content/RTS_Main/Maps/RTS_Conquer_Map.umap
 >>>>>>> Fredy
-*GhostBuilding_BP.uasset
-*rtsCameraPawnController.uasset
-*RTS_Conquer_Map.umap
-*RTS_Conquer_Map_BuiltData.uasset 
+*Config/DefaultEngine.ini
+*Content/RTS_Main/Blueprints/Buildings/GhostBuilding_BP.uasset
+*Content/RTS_Main/Blueprints/rtsCameraPawnController.uasset
+*Content/RTS_Main/Maps/RTS_Conquer_Map.umap
+*Content/RTS_Main/Maps/RTS_Conquer_Map_BuiltData.uasset 
